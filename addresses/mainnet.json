@@ -1,0 +1,25 @@
+
+{
+  "network": "BNB Smart Chain (Mainnet)",
+  "chainId": 56,
+  "token": {
+    "name": "Latcoin",
+    "symbol": "LATC",
+    "decimals": 18,
+    "contract": "0xYOUR_TOKEN_CONTRACT",
+    "bscscan": "https://bscscan.com/token/0xYOUR_TOKEN_CONTRACT"
+  },
+  "vesting": {
+    "contract": "0xYOUR_VESTING_CONTRACT",
+    "bscscan": "https://bscscan.com/address/0xYOUR_VESTING_CONTRACT",
+    "cliffStartUTC": "2027-01-18T00:00:00Z",
+    "durationSeconds": 94608000
+  },
+  "liquidity": {
+    "pairV2": "0xYOUR_LP_PAIR",
+    "bscscan": "https://bscscan.com/address/0xYOUR_LP_PAIR",
+    "txAddLiquidity": "0xYOUR_ADD_LIQ_TX",
+    "txLockLiquidity": "0xYOUR_LOCK_TX",
+    "lockPage": "https://www.pinksale.finance/#/pinklock/..."
+  }
+}
