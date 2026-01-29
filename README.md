@@ -7,10 +7,10 @@ LATC nace como un activo utilitario que conecta personas, comercios y comunidade
 ## Enlaces oficiales
 - Sitio web: https://latbroker.com/latcoin
 - Documentación / Whitepaper (HTML): /docs/index.html
-- Contrato del token (BSC): <ENLACE_BSCSCAN_TOKEN>
-- Contrato Vesting: <ENLACE_BSCSCAN_VESTING>
-- LP Pair V2: <ENLACE_BSCSCAN_LP>
-- Prueba de bloqueo de liquidez: <ENLACE_PINKLOCK>
+- Contrato del token (BSC): [<ENLACE_BSCSCAN_TOKEN>](https://bscscan.com/address/0x3fc3530e26e2aa72906572625491c78a9606bc6a)
+- Contrato Vesting: [<ENLACE_BSCSCAN_VESTING>](https://bscscan.com/address/0x1194ba17d9dafeccc94ed2eaa5a70a251be19178)
+- LP Pair V2: [<ENLACE_BSCSCAN_LP>](https://bscscan.com/address/0xa3cd2276893e42eef0b2d21c1df38199ff4ee477)
+- Prueba de bloqueo de liquidez: [<ENLACE_PINKLOCK>](https://bscscan.com/address/0x11856fd8f0c10c5397786ef6cf47479afc726a48)
 
 ## Información on-chain
 - Red: BNB Smart Chain (BEP-20)
