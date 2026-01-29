@@ -6,20 +6,20 @@
     "name": "Latcoin",
     "symbol": "LATC",
     "decimals": 18,
-    "contract": "0xYOUR_TOKEN_CONTRACT",
-    "bscscan": "https://bscscan.com/token/0xYOUR_TOKEN_CONTRACT"
+    "contract": "0x3Fc3530e26e2aa72906572625491C78a9606BC6a",
+    "bscscan": "https://bscscan.com/token/0x3Fc3530e26e2aa72906572625491C78a9606BC6a"
   },
   "vesting": {
-    "contract": "0xYOUR_VESTING_CONTRACT",
-    "bscscan": "https://bscscan.com/address/0xYOUR_VESTING_CONTRACT",
+    "contract": "0x1194ba17D9DAFECcC94eD2eAa5a70a251bE19178",
+    "bscscan": "https://bscscan.com/address/0x1194ba17D9DAFECcC94eD2eAa5a70a251bE19178",
     "cliffStartUTC": "2027-01-18T00:00:00Z",
     "durationSeconds": 94608000
   },
   "liquidity": {
-    "pairV2": "0xYOUR_LP_PAIR",
-    "bscscan": "https://bscscan.com/address/0xYOUR_LP_PAIR",
-    "txAddLiquidity": "0xYOUR_ADD_LIQ_TX",
-    "txLockLiquidity": "0xYOUR_LOCK_TX",
+    "pairV2": "0xA3cd2276893e42EEF0b2D21C1DF38199FF4Ee477",
+    "bscscan": "https://bscscan.com/address/0xA3cd2276893e42EEF0b2D21C1DF38199FF4Ee477",
+    "txAddLiquidity": "0x11856fd8f0c10c5397786ef6cf47479afc726a48",
+    "txLockLiquidity": "0xd0dAbA59bc464646eA7Ed73C3eD07A8682f8B713",
     "lockPage": "https://www.pinksale.finance/#/pinklock/..."
   }
 }
